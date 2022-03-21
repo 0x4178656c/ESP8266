@@ -1,6 +1,4 @@
 
-//https://www.youtube.com/watch?v=7gjJfJgi6uE
-
 /*  Includo librerie necessarie   */
 
 //Queste sono utilizzate per la gestione del WiFi e della comunicazione con server Mqtt
